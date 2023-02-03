@@ -6,7 +6,7 @@
 </template>
 
 <script>
-
+/* eslint-disable */
 import HomePage from './components/HomePage.vue';
 import NavBar from './components/navbar/NavBar.vue';
 
